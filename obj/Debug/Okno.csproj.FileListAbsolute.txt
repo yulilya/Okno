@@ -1,0 +1,11 @@
+C:\Users\megaP\Desktop\Юля\учеба\4 курс\Технология разработки программного обеспечения\Okno\bin\Debug\Okno.exe.config
+C:\Users\megaP\Desktop\Юля\учеба\4 курс\Технология разработки программного обеспечения\Okno\bin\Debug\Okno.exe
+C:\Users\megaP\Desktop\Юля\учеба\4 курс\Технология разработки программного обеспечения\Okno\bin\Debug\Okno.pdb
+C:\Users\megaP\Desktop\Юля\учеба\4 курс\Технология разработки программного обеспечения\Okno\obj\Debug\Okno.csproj.AssemblyReference.cache
+C:\Users\megaP\Desktop\Юля\учеба\4 курс\Технология разработки программного обеспечения\Okno\obj\Debug\Okno.Form1.resources
+C:\Users\megaP\Desktop\Юля\учеба\4 курс\Технология разработки программного обеспечения\Okno\obj\Debug\Okno.Form2.resources
+C:\Users\megaP\Desktop\Юля\учеба\4 курс\Технология разработки программного обеспечения\Okno\obj\Debug\Okno.Properties.Resources.resources
+C:\Users\megaP\Desktop\Юля\учеба\4 курс\Технология разработки программного обеспечения\Okno\obj\Debug\Okno.csproj.GenerateResource.cache
+C:\Users\megaP\Desktop\Юля\учеба\4 курс\Технология разработки программного обеспечения\Okno\obj\Debug\Okno.csproj.CoreCompileInputs.cache
+C:\Users\megaP\Desktop\Юля\учеба\4 курс\Технология разработки программного обеспечения\Okno\obj\Debug\Okno.exe
+C:\Users\megaP\Desktop\Юля\учеба\4 курс\Технология разработки программного обеспечения\Okno\obj\Debug\Okno.pdb

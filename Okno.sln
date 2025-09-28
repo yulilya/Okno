@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okno", "Okno.csproj", "{EBAADBCC-58DE-4857-BC28-105986FBC814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBAADBCC-58DE-4857-BC28-105986FBC814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBAADBCC-58DE-4857-BC28-105986FBC814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBAADBCC-58DE-4857-BC28-105986FBC814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBAADBCC-58DE-4857-BC28-105986FBC814}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E82B9F2-9548-4D1B-85D2-D745CD699F2A}
+	EndGlobalSection
+EndGlobal
